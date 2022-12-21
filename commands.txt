@@ -1,0 +1,7 @@
+ls -al
+whoami
+cat commands.txt
+wc pos1.c
+man --help
+
+
